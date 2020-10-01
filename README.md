@@ -1,5 +1,5 @@
-### Calculator Functionality
-# Performs simple operations 
+# Calculator Functionality
+## Performs simple operations 
 ## Languages used:
 ## HTML
 ## CSS
