@@ -1,5 +1,6 @@
-# Calculator-Functionality
-#Simple operations 
-#HTML
-#CSS
-#JS
+### Calculator Functionality
+# Performs simple operations 
+## Languages used:
+## HTML
+## CSS
+## JS
